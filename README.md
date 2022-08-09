@@ -1,16 +1,25 @@
-### Hi there 👋
+## Olá, eu sou o Víctor! 
 
-<!--
-**viubis/viubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 Apaixonado por tecnologias e em desenvolver, sistemas.
+- 📚 Graduando em Engenharia de Computação - UEFS.
 
-Here are some ideas to get you started:
+---
+- 💼 <a href="https://www.linkedin.com/in/victor-souza-santos-48292b201/">LinkedIn</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <a>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=viubis&layout=compact"
+    />
+  </a>
+  <a>
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=viubis&show_icons=true&theme=radical"
+    />
+  </a>
+</p>
