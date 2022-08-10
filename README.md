@@ -1,6 +1,6 @@
 ## Olá, eu sou o Víctor! 
 
-- 📱 Apaixonado por tecnologias e em desenvolver, sistemas.
+- 📱 Apaixonado por tecnologias e em desenvolvimento de sistemas.
 - 📚 Graduando em Engenharia de Computação - UEFS.
 
 ---
